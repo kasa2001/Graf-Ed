@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1491150409 source:c:\users\lenovo\desktop\micha³ obiektowo\projekt\main.cpp
+	<iostream>
+	"Edytor.h"
+
+1496678080 c:\users\lenovo\desktop\micha³ obiektowo\projekt\include\edytor.h
+	"Tablica.h"
+	<iostream>
+	<string>
+
+1496666260 source:c:\users\lenovo\desktop\micha³ obiektowo\projekt\src\figura.cpp
+	"Figura.h"
+	"Obiekt.h"
+	<iostream>
+	<string>
+
+1496677170 c:\users\lenovo\desktop\micha³ obiektowo\projekt\include\figura.h
+	<iostream>
+	"Obiekt.h"
+
+1497102309 source:c:\users\lenovo\desktop\micha³ obiektowo\projekt\src\tablica.cpp
+	"Tablica.h"
+	"Figura.h"
+	<iostream>
+	<fstream>
+	<sstream>
+
+1496676581 c:\users\lenovo\desktop\micha³ obiektowo\projekt\include\tablica.h
+	<iostream>
+	"Figura.h"
+
+1497211198 source:c:\users\lenovo\desktop\micha³ obiektowo\projekt\src\edytor.cpp
+	"Edytor.h"
+	"Tablica.h"
+	"Trojkat.h"
+	"Kwadrat.h"
+	<iostream>
+	<conio.h>
+	<sstream>
+	<string>
+	<fstream>
+	<cstdlib>
+	<windows.h>
+	<unistd.h>
+
+1497107619 source:c:\users\lenovo\desktop\micha³ obiektowo\projekt\src\obiekt.cpp
+	"Obiekt.h"
+
+1497107619 c:\users\lenovo\desktop\micha³ obiektowo\projekt\include\obiekt.h
+	"Figura.h"
+	<iostream>
+
+1497211386 source:c:\users\lenovo\desktop\micha³ obiektowo\projekt\src\kwadrat.cpp
+	"Kwadrat.h"
+	<iostream>
+	<cstdio>
+	<fstream>
+	<string>
+	<sstream>
+
+1496677594 c:\users\lenovo\desktop\micha³ obiektowo\projekt\include\kwadrat.h
+	"Figura.h"
+	"Obiekt.h"
+
+1497211386 source:c:\users\lenovo\desktop\micha³ obiektowo\projekt\src\trojkat.cpp
+	"Trojkat.h"
+	<iostream>
+	<string>
+	<fstream>
+	<cstdio>
+	<sstream>
+
+1496677597 c:\users\lenovo\desktop\micha³ obiektowo\projekt\include\trojkat.h
+	"Figura.h"
+
